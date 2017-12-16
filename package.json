@@ -1,0 +1,26 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/takakii/parcel.git",
+  "author": "Takaki Yasuma <takakii@hatena.ne.jp>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.2.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-preact": "^1.1.0",
+    "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.2.0",
+    "postcss-cli": "^4.1.1",
+    "postcss-modules": "^1.1.0",
+    "preact": "^8.2.7",
+    "preact-compat": "^3.17.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
