@@ -18,7 +18,14 @@ body {
       background: yellow;
       color: gray; }
 
-._test_1a4jr_18 {
-  width: 20%;
-  margin: 0 auto;
-  background: purple; }
+img {
+  margin: 0; }
+
+.test {
+  margin: 0;
+  padding: 0;
+  color: blue; }
+  .test a {
+    display: -ms-grid;
+    display: grid;
+    pointer-events: none; }
