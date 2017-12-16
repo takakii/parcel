@@ -1,0 +1,27 @@
+@import "_mixins";
+@import "_variables";
+
+body {
+  display: grid;
+  margin: 0 auto;
+  padding: 0;
+  background: red;
+  color: #555;
+  p {
+    display: flex;
+    background: blue;
+    color: #fff;
+    padding: 0 50px;
+    span {
+      @include w100;
+      height: 100px;
+      background: yellow;
+      color: gray;
+    }
+  }
+}
+.test {
+  width: 20%;
+  margin: 0 auto;
+  background: purple;
+}

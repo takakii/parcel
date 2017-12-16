@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/takakii/parcel.git",
-  "author": "Takaki Yasuma <takakii@hatena.ne.jp>",
+  "author": "Takaki Yasuma",
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html"

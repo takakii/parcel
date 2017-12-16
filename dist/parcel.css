@@ -1,0 +1,24 @@
+body {
+  display: -ms-grid;
+  display: grid;
+  margin: 0 auto;
+  padding: 0;
+  background: red;
+  color: #555; }
+  body p {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background: blue;
+    color: #fff;
+    padding: 0 50px; }
+    body p span {
+      width: 100px;
+      height: 100px;
+      background: yellow;
+      color: gray; }
+
+._test_1a4jr_18 {
+  width: 20%;
+  margin: 0 auto;
+  background: purple; }
